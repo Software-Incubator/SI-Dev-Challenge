@@ -53,32 +53,32 @@ To qualify, follow these submission guidelines:
 ---
 ## Resources 
 1. **Flutter**:  
-[Resource 1](https://www.geeksforgeeks.org/flutter-tutorial/)
-[Resource 2](https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&si=hixSsY9EwSQ8V9zR)
-[Resource 3](https://flutter.dev/learn)
+- [Resource 1](https://www.geeksforgeeks.org/flutter-tutorial/)
+- [Resource 2](https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&si=hixSsY9EwSQ8V9zR)
+- [Resource 3](https://flutter.dev/learn)
 
 2. **Android**:  
-[Resource 1](https://developer.android.com/courses/android-basics-compose/course?gad_source=1&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-JwZxUPJkILZUsKuT81yBGLDKVJ_BtXLccl8xSCcyVneRZT-VacO70aAni8EALw_wcB&gclsrc=aw.ds)
-[Resource 2](https://developer.android.com/courses/android-basics-compose/course?gad_source=1&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-IjqlO1jEWCuKi7SEbJcSDmUc4gjcUS4aXuvRZ-Y_kXAuPK6sMK4fgaAu4WEALw_wcB&gclsrc=aw.ds)
+- [Resource 1](https://developer.android.com/courses/android-basics-compose/course?gad_source=1&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-JwZxUPJkILZUsKuT81yBGLDKVJ_BtXLccl8xSCcyVneRZT-VacO70aAni8EALw_wcB&gclsrc=aw.ds)
+- [Resource 2](https://developer.android.com/courses/android-basics-compose/course?gad_source=1&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-IjqlO1jEWCuKi7SEbJcSDmUc4gjcUS4aXuvRZ-Y_kXAuPK6sMK4fgaAu4WEALw_wcB&gclsrc=aw.ds)
 
 3. **React.js**:  
-[Resource 1](https://medium.com/bootcamped/from-zero-to-hero-w-html-css-javascript-8d84eea72452)
-[Resource 2](https://medium.com/@dilarauluturhan/javascript-api-application-programming-interface-ffd4cbb730d8#:~:text=JavaScript%20APIs%20are%20a%20powerful,integrate%20them%20into%20different%20platforms)
+- [Resource 1](https://medium.com/bootcamped/from-zero-to-hero-w-html-css-javascript-8d84eea72452)
+- [Resource 2](https://medium.com/@dilarauluturhan/javascript-api-application-programming-interface-ffd4cbb730d8#:~:text=JavaScript%20APIs%20are%20a%20powerful,integrate%20them%20into%20different%20platforms)
 
 4. **Node.js**:  
-[Resource 1](https://www.youtube.com/results?search_query=piyush+garg+nodejs)
-[Resource 2](https://mudacodes.medium.com/building-a-crud-api-with-node-js-a-step-by-step-guide-87f47b7deebb)
-[Resource 3](https://mudacodes.medium.com/building-a-crud-api-with-node-js-a-step-by-step-guide-87f47b7deebb)
-[Resource 4](https://dev.to/zagaris/build-a-restful-crud-api-with-node-js-2334)
+- [Resource 1](https://www.youtube.com/results?search_query=piyush+garg+nodejs)
+- [Resource 2](https://mudacodes.medium.com/building-a-crud-api-with-node-js-a-step-by-step-guide-87f47b7deebb)
+- [Resource 3](https://mudacodes.medium.com/building-a-crud-api-with-node-js-a-step-by-step-guide-87f47b7deebb)
+- [Resource 4](https://dev.to/zagaris/build-a-restful-crud-api-with-node-js-2334)
 
 
 5. **Spring Boot**:  
-[Resource 1](https://www.youtube.com/watch?v=5rNk7m_zlAg)
-[Resource 2](https://medium.com/@piyumisudusinghe/create-rest-api-using-spring-boot-hibernate-and-mysql-7554c08a9bcd)
-[Resource 3](https://medium.com/sysco-labs/spring-boot-crud-with-mongodb-postman-for-starters-54af4b934217)
+- [Resource 1](https://www.youtube.com/watch?v=5rNk7m_zlAg)
+- [Resource 2](https://medium.com/@piyumisudusinghe/create-rest-api-using-spring-boot-hibernate-and-mysql-7554c08a9bcd)
+- [Resource 3](https://medium.com/sysco-labs/spring-boot-crud-with-mongodb-postman-for-starters-54af4b934217)
 
 6. **Django**:  
-[Resource 1](https://medium.com/@learncodeguide/how-to-create-a-rest-api-with-django-rest-framework-for-beginner-full-tutorial-9bf2f3f2b97e)
+- [Resource 1](https://medium.com/@learncodeguide/how-to-create-a-rest-api-with-django-rest-framework-for-beginner-full-tutorial-9bf2f3f2b97e)
 
 
 Make sure to follow all submission guidelines to ensure your entry is valid. Good luck!
