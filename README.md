@@ -1,6 +1,6 @@
-# SDC-SI Recruitment 2025  
+# SDC-SI Recruitment 2026
 
-Welcome to the **SI Dev Challenge**, an exciting opportunity for **2nd-year students** to demonstrate their skills and qualify for the **PI Round of SDC-SI Recruitment Drive 2025**.  
+Welcome to the **SI Dev Challenge**, an exciting opportunity for **2nd-year students** to demonstrate their skills and qualify for the **PI Round of SDC-SI Recruitment Drive 2026**.  
 
 This challenge allows you to choose between a **frontend** or **backend** task, based on your area of interest.  
 
@@ -8,36 +8,36 @@ This challenge allows you to choose between a **frontend** or **backend** task, 
 
 Make sure to follow all submission guidelines to ensure your entry is valid. 
 
-**Deadline - 22 August 2025 EOD**   
+**Deadline - 28 July 2026 EOD**   
 
 ---
 
 ## App Development Tasks  
 
 **SDC-SI App Development Task**  
-- [Option 1 – Quiz App](https://docs.google.com/document/d/1bf5J-H0QY55qz9ucDegj_kXoJLRfAE40DLofzmCcOFg/edit?usp=sharing)  
-- [Option 2 – E-Commerce App](https://docs.google.com/document/d/1GbGNQZ1NrYBIg5ZOPWR_QgmWWdChBA_cFOuoWJ5nOFc/edit?usp=sharing)  
-- [Option 3 – Weather App](https://docs.google.com/document/d/1ys0qPB0Jz11gTPLLrn3BxhTlU3yaV4AKDBUuhmaN0fU/edit?usp=sharing)  
-- [Option 4 – Stopwatch & Timer App](https://docs.google.com/document/d/1l2Yz6nGE6M_OzfA5N0pHtoSvs7ZwnccGMxwLVM4C6Yg/edit?usp=sharing)  
-- [Option 5 – Game App](https://docs.google.com/document/d/11f_8dyE3gzRIbS9f8taHSL6YAxIOm9zuBc36onuhgGY/edit?usp=sharing)  
+- [Option 1 – Story App](https://docs.google.com/document/d/1ctQHhGS-NroZVrHj83Dz5YRVYZXFMtcuRwYmBIeoj3w/edit?usp=sharing)  
+- [Option 2 – Food App](https://docs.google.com/document/d/1RdJv2nsdtD0sUU9TczghIHBaMV4RAC7CVs2wBqoZjd0/edit?usp=sharing)  
+- [Option 3 – News App](https://docs.google.com/document/d/1kOFSVI546KitcLt06pmaBIQ5-QOg-iBKoDHRfqMaqGs/edit?usp=sharing)  
+- [Option 4 – Expense App](https://docs.google.com/document/d/1idOGNQl9f6WX3MRZ51wS4Lwkcrqkl_T-0GXNS0v2nxQ/edit?usp=sharing)  
+- [Option 5 – Game App](https://docs.google.com/document/d/1DBVNSIJ-4JDtKJS9zpW6sWEuF9M_cSZLTZI-EyaXzsA/edit?usp=sharing)  
 
 ---
 
 ## Web Development Task  
 
 **SDC-SI Frontend Development Task**  
-- Option 1 – Quiz Web App  
-- Option 2 – Public GitHub Repo Explorer  
-- Option 3 – NASA Space Explorer  
+- Option 1 – Pokémon Type Matcher 
+- Option 2 – LeetCode Progress Explorer  
+- Option 3 – Interactive Event Calendar
 
-[View Full Task Document](https://docs.google.com/document/d/11icpjI-KWB1UUrlfRIWW3W86p_8mig9aMgKbK8rfUA4/edit?usp=sharing)  
+[View Full Task Document](https://docs.google.com/document/d/1JEQLi9wGN_LGREMIBiuXoQw3HRkUCOcmqKq1JHmfl50/edit?tab=t.0)  
 
 ---
 
 ## Backend Development Task  
 
 **SDC-SI Backend Development Task**  
-- [Collaborative Notes App](https://docs.google.com/document/d/1BErVGodMrX8OUbufIjx3BaOiZxx4XSxCrveZm85yMxg/edit?usp=sharing)  
+- [Expense Tracker with Approvals](https://docs.google.com/document/d/1mi2AgW0sqUisixdOvynX-a5LaGf1fg4IbmRz0xzMlOE/edit?tab=t.0)  
 
 ---
 
@@ -102,4 +102,4 @@ To qualify, follow these submission guidelines:
 
 ---
 
-**Good luck to all participants!**  
+**Good luck to all participants!**
